@@ -1,0 +1,207 @@
+body {
+    background-color: rgb(205, 220, 233);
+    background-image: url(/img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+main {
+    background-color: rgba(255, 255, 255, 0.801);
+    height: 825px;
+    width: 980px;
+    border-radius: 30px;
+    position: relative;
+    margin: auto;
+    top: 25px;
+    box-shadow: 3px 3px 40px rgb(0, 0, 0);
+}
+
+
+.posicion {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
+
+.imagen {
+    position: relative;
+    border-radius: 30px;
+    right: 272px;
+    top: 50px;
+    width: 150px;
+    border: 5px solid rgba(255, 255, 255, 0.459);
+    box-shadow: 1px 2px 60px rgb(0, 0, 0);
+}
+
+.border {
+    position: relative;
+    background-color: rgb(66, 0, 128);
+    padding: 80px;
+    height: 665px;
+    width: 200px;
+    border-radius: 30px;
+    box-shadow: 1px 2px 60px rgb(0, 0, 0);
+}
+
+.name {
+    position: relative;
+    top: -560px;
+    left: 55px;
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+}
+
+.name2 {
+    position: relative;
+    top: -560px;
+    left: 98px;
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+
+}
+
+#f {
+    position: relative;
+    color: rgb(95, 180, 255);
+    text-decoration: none;
+    font-size: 25px;
+    width: 30px;
+    left: 11px;
+    top: -31px;
+}
+
+.bord {
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+    box-shadow: 1px 2px 60px rgb(0, 0, 0);
+}
+
+.bord2 {
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    height: 20px;
+    top: -65px;
+    width: 20px;
+    left: 60px;
+    border-radius: 10px;
+    box-shadow: 1px 2px 60px rgb(0, 0, 0);
+}
+
+#t {
+    position: relative;
+    color: rgb(95, 180, 255);
+    text-decoration: none;
+    font-size: 25px;
+    width: 30px;
+    left: 67px;
+    top: -96px;
+}
+
+.bord3 {
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    height: 20px;
+    top: -130px;
+    width: 20px;
+    left: 120px;
+    border-radius: 10px;
+    box-shadow: 1px 2px 60px rgb(0, 0, 0);
+}
+
+#i {
+    position: relative;
+    color: rgb(95, 180, 255);
+    text-decoration: none;
+    font-size: 25px;
+    width: 30px;
+    left: 129px;
+    top: -163px;
+}
+
+.about {
+    position: relative;
+    top: -150px;
+}
+
+.text-1 {
+    position: relative;
+    top: -150px;
+    text-decoration: none;
+    font-size: 16px;
+    right: 98px;
+}
+
+.perfil {
+    position: relative;
+    color: rgb(66, 0, 128);
+    left: 620px;
+    top: -1470px;
+    font-family: cursive;
+}
+
+.text-2 {
+    position: relative;
+    color: rgb(66, 0, 128);
+    font-size: 15px;
+    width: 500px;
+    left: 400px;
+    font-family: cursive;
+    top: -1470px;
+    text-align: center;
+    margin: 0;
+}
+
+.academica {
+    position: relative;
+    color: rgb(66, 0, 128);
+    font-size: 20px;
+    width: 500px;
+    left: 400px;
+    font-family: cursive;
+    top: -1470px;
+    text-align: center;
+}
+
+.text-4 {
+    position: relative;
+    color: rgb(66, 0, 128);
+    font-size: 15px;
+    width: 500px;
+    left: 400px;
+    font-family: cursive;
+    top: -1470px;
+    text-align: center;
+}
+
+.text-5 {
+    position: relative;
+    color: rgb(66, 0, 128);
+    font-size: 15px;
+    width: 500px;
+    left: 400px;
+    font-family: cursive;
+    top: -1470px;
+    text-align: center;
+}
+
+.text-6 {
+    position: relative;
+    color: rgb(66, 0, 128);
+    font-size: 15px;
+    width: 500px;
+    left: 400px;
+    font-family: cursive;
+    top: -1470px;
+    text-align: center;
+}
+
